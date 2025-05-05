@@ -1,6 +1,5 @@
 # UBER_DS_Insights-from-City-Supply-and-Demand-Data 🚗
 This Project shares Insights from City Supply and Demand Data using a historical dataset from UBER. 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14236%2Fuber&psig=AOvVaw3LLub5sbH-Cod_H8c7yCBP&ust=1746552844209000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjRl8HujI0DFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/b2c3b204-d139-4154-b949-e5a16f4b5036)
 
 The Primary Goal of the Project is to craft insights on Trip Pattern, Customer Behavior Analysis and Prediction of demand/churn based on customer analysis (drivers' behavior) that helps craft strategy to deliver accurate Supply & Demand Business Strategy.
 
