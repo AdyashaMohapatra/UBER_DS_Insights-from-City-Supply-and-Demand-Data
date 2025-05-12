@@ -1,8 +1,8 @@
 # UBER_DS_Insights-from-City-Supply-and-Demand-Data 🚗
 This Project shares Insights from City Supply and Demand Data using a historical dataset from UBER. 
-
+--
 The Primary Goal of the Project is to craft insights on Trip Pattern, Customer Behavior Analysis and Prediction of demand/churn based on customer analysis (drivers' behavior) that helps craft strategy to deliver accurate Supply & Demand Business Strategy.
-
+--
 The Key Questions answered for developing Business Strategy are :
 1. Which date had the most completed trips during the two week period?
 2. What was the highest number of completed trips within a 24 hour period?
